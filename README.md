@@ -1,0 +1,3 @@
+# Script lua para mouse logitech
+
+o mouse logitech superstrike x3 não possui um botão dedicado para trocar de DPI, e a troca de DPI durante o jogo de modo rápido é uma função muito útil pra mim e tem em outros mouses, então fiz este script para ser possível ter uma alternativa, neste caso pressionando os dois botões laterais ao mesmo tempo para alternar os DPI do perfil atual ativo no software da logitech.
